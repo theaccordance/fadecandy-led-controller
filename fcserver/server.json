@@ -12,7 +12,7 @@
             "type": "fadecandy",
             "serial" : "VTUXIGZJDHNWYYZB",
             "map": [
-              [ 0, 0, 0, 60, "grb" ]
+              [ 0, 0, 0, 50, "grb" ]
             ]
         }
     ]
